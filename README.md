@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Antonio
 
-<!--
-**razorphish/razorphish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical developer tooling and ship digital products for engineers.
 
-Here are some ideas to get you started:
+### Free sample
+7 production-ready Claude prompts for engineers, a sample of 55, no signup:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://gist.github.com/razorphish/5469109bbe6f20a49280c5b5002d1a5a
+
+Covers SQL optimization, async refactoring, API validation, React, Python ETL, IAM policies, and microservice design.
+
+### The full set
+55 Production-Ready Claude Prompts. Code review, security, testing, DevOps, data, and agentic loops. Each prompt ships with a worked example input, a real output, and adaptation notes:
+
+https://claude-prompts.carrd.co
